@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{margin: 0%;
+    height: auto;
+}
+
+body{background: url(img/679373.jpg) no-repeat center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.foto{margin-left: auto;
+    margin-right: auto; 
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+}
+p{
+    text-align: center;
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+h2{
+    text-align: center;
+  
+    color: color black;
+}
+
+.sucrilado{
+    text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.tudo{
+    border: 5px solid rgb(33, 34, 82);
+  border-radius: 5px;
+  padding: 5px;
+  background-color:whitesmoke;
+  width: 400px;
+}
+.github{
+    width: 100px;
+}
